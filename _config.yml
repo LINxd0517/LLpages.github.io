@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png" #头像
   name             : "林晓东"
-  pronouns         : # example: "男"  
+  pronouns         :  "男"# example: "男"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "L18815963303@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
