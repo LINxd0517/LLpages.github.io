@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "林晓东的个人主页"
 title_separator          : "-"
 name                     : &name "林晓东"
 description              : &description "personal description"
