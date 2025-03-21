@@ -22,9 +22,9 @@ repository               : "https://linxd0517.github.io/LLpages.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "profile.png" #头像
+  name             : "林晓东"
+  pronouns         : # example: "男"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
