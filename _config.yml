@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "林晓东的个人主页"
+title                    : "林晓东的个人主页" # 标题
 title_separator          : "-"
 name                     : &name "林晓东"
-description              : &description "personal description"
+description              : &description "一个平平无奇智商99999的男人"
 url                      : https://linxd0517.github.io/LLpages.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
