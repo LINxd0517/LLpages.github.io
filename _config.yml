@@ -22,7 +22,7 @@ repository               : "https://linxd0517.github.io/LLpages.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "ikun.jpg" #头像
   name             : "林晓东"
   pronouns         :  "男" # example: "男"  
   bio              : "一个平平无奇智商99999的男人"
